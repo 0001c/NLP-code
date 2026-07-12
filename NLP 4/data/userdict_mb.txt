@@ -1,0 +1,331 @@
+# 手机品牌型号
+红米Note5A 50 nz
+红米Note8 50 nz
+红米Note10 50 nz
+红米Note11 50 nz
+红米Note12 50 nz
+红米K40 50 nz
+红米K30 50 nz
+红米K50 50 nz
+红米K60 50 nz
+红米K70 50 nz
+红米K80 50 nz
+红米5 Plus 50 nz
+红米9A 50 nz
+红米10A 50 nz
+小米Note3 50 nz
+小米10 50 nz
+小米11 50 nz
+小米12 50 nz
+小米13 50 nz
+小米14 50 nz
+小米MIX4 50 nz
+小米Civi 50 nz
+小米12X 50 nz
+Redmi K50 50 nz
+Redmi K60 50 nz
+Redmi K70 50 nz
+Redmi K80 50 nz
+Redmi Note9 50 nz
+Redmi Note10 50 nz
+Redmi Note11 50 nz
+Redmi Note12 50 nz
+荣耀V10 50 nz
+荣耀X10 50 nz
+荣耀X20 50 nz
+荣耀X30 50 nz
+荣耀X40 50 nz
+荣耀Play5 50 nz
+荣耀Play6T 50 nz
+荣耀Magic3 50 nz
+荣耀Magic4 50 nz
+荣耀Magic6 50 nz
+荣耀9X 50 nz
+荣耀10 50 nz
+荣耀20 50 nz
+荣耀30 50 nz
+荣耀50 50 nz
+荣耀60 50 nz
+荣耀70 50 nz
+荣耀80 50 nz
+华为P40 50 nz
+华为P50 50 nz
+华为P60 50 nz
+华为Mate20 50 nz
+华为Mate30 50 nz
+华为Mate40 50 nz
+华为Mate50 50 nz
+华为Mate60 50 nz
+华为Nova7 50 nz
+华为Nova8 50 nz
+华为Nova9 50 nz
+华为Nova10 50 nz
+华为畅享20 50 nz
+华为畅享50 50 nz
+OPPO Reno4 50 nz
+OPPO Reno5 50 nz
+OPPO Reno6 50 nz
+OPPO Reno9 50 nz
+OPPO K7x 50 nz
+OPPO K9 50 nz
+OPPO K10 50 nz
+OPPO Find X2 50 nz
+OPPO Find X3 50 nz
+OPPO Find X5 50 nz
+OPPO Find X7 50 nz
+vivo X50 50 nz
+vivo X60 50 nz
+vivo X70 50 nz
+vivo X80 50 nz
+vivo X90 50 nz
+vivo X100 50 nz
+vivo S7 50 nz
+vivo S10 50 nz
+vivo S16 50 nz
+一加手机 50 nz
+OnePlus 8T 50 nz
+OnePlus 9 50 nz
+OnePlus 9 Pro 50 nz
+OnePlus 10 Pro 50 nz
+OnePlus 11 50 nz
+OnePlus 12 50 nz
+iQOO 7 50 nz
+iQOO 9 50 nz
+iQOO Neo5 50 nz
+iQOO Neo7 50 nz
+Galaxy S21 50 nz
+Galaxy S22 50 nz
+Galaxy S23 50 nz
+Galaxy S24 50 nz
+Galaxy Note20 50 nz
+Galaxy Z Fold3 50 nz
+Galaxy Z Fold4 50 nz
+Galaxy Z Flip3 50 nz
+# 颜色名称
+深空灰 30 n
+铂银灰 30 n
+幻夜黑 30 n
+云墨灰 30 n
+玫瑰金 30 n
+幻影蓝 30 n
+冰霜银 30 n
+秘银色 30 n
+星河银 30 n
+钛银黑 30 n
+紫玉幻境 30 n
+星云灰 30 n
+梦幻蓝 30 n
+碳素黑 30 n
+银迹 30 n
+迷雾森林 30 n
+竹石青 30 n
+雪域白 30 n
+蓝水翡翠 30 n
+初雪水晶 30 n
+翡冷翠 30 n
+天空之境 30 n
+星河入梦 30 n
+夏日晴海 30 n
+绮光焕彩 30 n
+洛可可白 30 n
+昆仑破晓 30 n
+雅川青 30 n
+羽砂紫 30 n
+冰魄蓝 30 n
+海湖青 30 n
+落日橙 30 n
+海阔天空 30 n
+碧波微蓝 30 n
+彩云追月 30 n
+墨玉青 30 n
+怦怦粉 30 n
+樱花蜜粉 30 n
+陶瓷白 30 n
+陶瓷黑 30 n
+釉白色 30 n
+凝白 30 n
+极光 30 n
+薄荷绿 30 n
+鲸蓝 30 n
+冰川银 30 n
+曜岩灰 30 n
+黑洞 30 n
+梵梦紫 30 n
+迷雾金 30 n
+清爽绿 30 n
+云白 30 n
+陨石黑 30 n
+流光幻镜 30 n
+竞速蓝 30 n
+亮黑色 30 n
+九号色 30 n
+零度白 30 n
+至黑 30 n
+液氧 30 n
+珊瑚海 30 n
+夜影黑 30 n
+星云 30 n
+晶钻红 30 n
+茶橘 30 n
+九十度黑 30 n
+蓝影 30 n
+银翼 30 n
+暗物质 30 n
+缪斯白 30 n
+琉璃绿 30 n
+氧气黑 30 n
+月光香槟 30 n
+钛空银 30 n
+魅焰红 30 n
+微醺薄荷 30 n
+冰斩 30 n
+烟波蓝 30 n
+紫色 30 n
+晨晖金 30 n
+星钻白 30 n
+绮境森林 30 n
+贝母白 30 n
+普罗旺斯 30 n
+晨曦金 30 n
+宝石蓝 30 n
+浮光 30 n
+夏日听海 30 n
+颜如玉 30 n
+明日金 30 n
+暗夜黑 30 n
+黑釉 30 n
+回蓝 30 n
+无尽黑 30 n
+悠远黑 30 n
+晴天蓝 30 n
+空山绿 30 n
+瓷青 30 n
+时光蓝 30 n
+幽芒 30 n
+冠军版 30 n
+碳纤黑 30 n
+镜瓷白 30 n
+墨羽 30 n
+留白 30 n
+岩石青 30 n
+水墨黑 30 n
+# 屏幕技术
+全面屏 30 n
+电竞屏 30 n
+曲面屏 30 n
+折叠屏 30 n
+直屏 30 n
+画屏 30 n
+流体屏 30 n
+瞳孔屏 30 n
+柔性直屏 30 n
+超曲屏 30 n
+全速屏 30 n
+护目屏 30 n
+高刷屏 30 n
+环幕屏 30 n
+微曲屏 30 n
+畅速屏 30 n
+全视屏 30 n
+玲珑四曲屏 30 n
+超通透屏 30 n
+四曲满溢屏 30 n
+柔性屏 30 n
+# 网络制式
+全网通 30 n
+双卡双待 30 n
+全网通版 30 n
+# 充电技术
+快充 30 n
+闪充 30 n
+超级快充 30 n
+超级闪充 30 n
+无线闪充 30 n
+双芯闪充 30 n
+澎湃秒充 30 n
+# 摄像头技术
+四摄 30 n
+三摄 30 n
+双摄 30 n
+超清三摄 30 n
+超广角 30 n
+微云台 30 n
+超感光 30 n
+潜望长焦 30 n
+长焦 30 n
+人像 30 n
+夜景 30 n
+徕卡 30 nz
+哈苏 30 nz
+蔡司 30 nz
+超聚光 30 n
+超光变 30 n
+超感知 30 n
+水光人像 30 n
+# 处理器
+骁龙 30 nz
+天玑 30 nz
+麒麟 30 nz
+骁龙865 30 nz
+骁龙870 30 nz
+骁龙888 30 nz
+骁龙8Gen1 30 nz
+骁龙8Gen2 30 nz
+骁龙8Gen3 30 nz
+天玑800U 30 nz
+天玑8000 30 nz
+天玑8100 30 nz
+天玑9000 30 nz
+天玑9200 30 nz
+天玑9300 30 nz
+麒麟9000 30 nz
+麒麟990 30 nz
+# 其他技术
+屏下摄像头 30 n
+屏内指纹 30 n
+长续航 30 n
+变焦 30 n
+数字变焦 30 n
+光学变焦 30 n
+手持夜景 30 n
+AI智慧 30 n
+XMAGE 30 n
+LTPO屏 30 n
+# 手机类型
+旗舰手机 30 n
+智能手机 30 n
+游戏手机 30 n
+拍照手机 30 n
+影像手机 30 n
+商务手机 30 n
+自拍手机 30 n
+女性手机 30 n
+潮流手机 30 n
+时尚手机 30 n
+学生手机 30 n
+中端手机 30 n
+小屏旗舰 30 n
+性能旗舰 30 n
+影像旗舰 30 n
+全能旗舰 30 n
+折叠旗舰 30 n
+商务旗舰 30 n
+千元旗舰 30 n
+千元机王 30 n
+性能猛兽 30 n
+性能小金刚 30 n
+安卓机皇 30 n
+旗舰机皇 30 n
+全能机皇 30 n
+# 其他常用词
+超清 30 a
+超强 30 a
+超长 30 a
+超窄边 30 a
+高感光 30 n
+长焦 30 n
+人像 30 n
+自拍 30 v
+美颜 30 v
+游戏加速 30 n
+AIS手持夜景 30 n
