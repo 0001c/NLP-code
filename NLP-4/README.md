@@ -4,8 +4,7 @@
 
 ## 📚 课程来源
 
-- **课程链接**: [【2025版】动手学自然语言处理NLP系列！](https://www.bilibili.com/video/BV1KSh1zvEpY/?p=18&share_source=copy_web&vd_source=697642d055ec82d49734008a241110ad)
-
+- **课程链接**: [4.1 离散文本表示\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1KSh1zvEpY?share_source=copy_web\&vd_source=697642d055ec82d49734008a241110ad\&spm_id_from=333.788.videopod.episodes\&p=19)
 - **章节**: 第四章 - 文本表示与相似度
 
 ## 📁 项目结构
@@ -31,12 +30,12 @@ NLP-4/
 
 ## 📖 内容说明
 
-| 文件 | 说明 |
-|------|------|
-| `tf-idf.ipynb` | 从分词开始，构建词袋模型，使用 Gensim 计算 TF-IDF 值 |
-| `BM25.ipynb` | 基于 `rank_bm25` 库实现 BM25 文本检索与相似度评分 |
+| 文件                            | 说明                                    |
+| ----------------------------- | ------------------------------------- |
+| `tf-idf.ipynb`                | 从分词开始，构建词袋模型，使用 Gensim 计算 TF-IDF 值    |
+| `BM25.ipynb`                  | 基于 `rank_bm25` 库实现 BM25 文本检索与相似度评分    |
 | `tfidf_similarity_task.ipynb` | 完整流程：读取文档→构建 TF-IDF 语料→计算输入文本与文档库的相似度 |
-| `cos.py` | 手写余弦相似度计算函数 |
+| `cos.py`                      | 手写余弦相似度计算函数                           |
 
 ## 🛠️ 环境配置
 
@@ -55,3 +54,4 @@ source .venv/bin/activate
 # 安装依赖包
 pip install jieba gensim rank-bm25
 ```
+
